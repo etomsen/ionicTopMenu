@@ -1,0 +1,28 @@
+{
+    "name": "me.tomsen.ionicTopMenu",
+    "version": "0.0.0",
+    "description": "Ionic top/bottom menu",
+    "main": ["topmenu.module.js", "topmenu.css", "topmenu.ctrl.js", "exposeabovewhen.directive.js", "topmenutoggle.directive.js", "topmenus.directive.js", "topmenuclose.directive.js", "topmenu.service.js", "topmenu.directive.js", "topmenu-content.directive.js"],
+    "keywords": [
+        "tomsen.me",
+        "ionTopMenu",
+        "menu",
+        "top menu",
+        "ionic",
+        "ion"
+    ],
+    "authors": [
+        "Evgeny Tomsen"
+    ],
+    "license": "MIT",
+    "homepage": "www.tomsen.me",
+    "dependencies": {"ionic": "~1.0.0"},
+    "overrides": {},
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
